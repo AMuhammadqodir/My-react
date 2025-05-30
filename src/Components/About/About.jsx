@@ -21,8 +21,12 @@ const About = () => {
                 <div className='about-skills'>
                     <div className='about-skill'><p>HTML & CSS</p><hr style={{width:"50%"}} /></div>
                     <div className='about-skill'><p>React JS</p><hr style={{width:"70%"}} /></div>
-                    <div className='about-skill'><p>JavaScript</p><hr style={{width:"60%"}} /></div>
-                    <div className='about-skill'><p>Next JS</p><hr style={{width:"50%"}} /></div>
+                    <div className='about-skill'><p>PHP</p><hr style={{width:"60%"}} /></div>
+                    <div className='about-skill'><p>CodeIgniter</p><hr style={{width:"70%"}} /></div>
+                    <div className='about-skill'><p>Laravel</p><hr style={{width:"50%"}} /></div>
+                    <div className='about-skill'><p>Python</p><hr style={{width:"70%"}} /></div>
+                    <div className='about-skill'><p>Django</p><hr style={{width:"70%"}} /></div>
+                    <div className='about-skill'><p>MySQL</p><hr style={{width:"80%"}} /></div>
                 </div>
             </div>
         </div>
